@@ -5444,6 +5444,7 @@
   <word key="security_questions_optout_title" js="0">ביטול הסכמתך לספק תשובות אבטחה</word>
   <word key="reset_security_answers" js="0">איפוס שאלות אבטחה</word>
   <word key="security_questions_opt_out_warning" js="0">ביטול התראות</word>
+  <word key="security_questions_opt_out_warning_value" js="0">ביטול התראות</word>
   <word key="security_questions_opt_out_warning_desc" js="0">הודעה זו תוצג בפני משתמש אם יבחר לבטל את הסכמתו.</word>
   <word key="authy_mfa_desc_authy_prefix" js="0">כדי להגן על חשבונך, אנא הגדירו את Authy.</word>
   <word key="authy_mfa_desc_phone_prefix" js="0">כדי להגן על חשבונך, הגדירו אימות טלפון.</word>

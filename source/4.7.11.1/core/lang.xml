@@ -9143,7 +9143,8 @@
   <word key="security_questions_optout" js="0">or opt-out of providing security answers</word>
   <word key="security_questions_optout_title" js="0">Opt-out of providing security answers</word>
   <word key="reset_security_answers" js="0">Reset Security Answers</word>
-  <word key="security_questions_opt_out_warning" js="0">Opt out warning</word>
+  <word key="security_questions_opt_out_warning" js="0">Opt out opt out</word>
+  <word key="security_questions_opt_out_warning_value" js="0">Cancel warnings</word>
   <word key="security_questions_opt_out_warning_desc" js="0">This is the text that will be displayed to a member if they choose to opt out.</word>
   <word key="authy_mfa_desc_authy_prefix" js="0">To protect the security of your account, please set up Authy.</word>
   <word key="authy_mfa_desc_phone_prefix" js="0">To protect the security of your account, please set up phone verification.</word>
